@@ -16,10 +16,6 @@ class App extends Component {
           name: 'Dracula',
           id: 2,
         },
-        {
-          name: 'Zombie',
-          id: 3,
-        },
       ],
     };
   }
